@@ -2,7 +2,7 @@
 
 ## Goal
 
-> This repository contains all the resources needed to do the Named Entity Recognition on Algerian script (models and datasets).
+> This repository contains all the resources needed to do the Named Entity Recognition task on Algerian script (models and datasets).
 
 ## Models used
 
