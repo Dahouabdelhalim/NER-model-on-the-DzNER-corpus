@@ -3,7 +3,7 @@
 ## Overview
 DzNER is a dataset specifically crafted for Named Entity Recognition (NER) in the Algerian dialect, addressing the scarcity of resources for Arabic dialects in NLP research. This dataset features over 21,000 manually annotated sentences, amounting to more than 220,000 tokens from Algerian Facebook pages and YouTube channels, focusing on three entity types: Person, Location, and Organization.
 
-![NER System Illustration](NER_system.png)
+![NER System Illustration](https://github.com/Dahouabdelhalim/NER-model-on-the-DzNER-corpus/blob/main/Data/DzNER/figures/NER%20system.png)
 ![My animated logo](figures/NER system.png)
 *Figure 1: Illustration of the NER system detecting entities in a sample Algerian text from the DzNER dataset.*
 
