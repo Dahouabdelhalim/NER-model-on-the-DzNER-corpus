@@ -35,3 +35,13 @@
   publisher={Elsevier}
 }
 ```
+```bibtex
+@inproceedings{dahou2022impact,
+  title={Impact of normalization and data augmentation in ner for algerian arabic dialect},
+  author={Dahou, Abdelhalim Hafedh and Cheragui, Mohamed Amine},
+  booktitle={International Symposium on Modelling and Implementation of Complex Systems},
+  pages={249--262},
+  year={2022},
+  organization={Springer}
+}
+```
