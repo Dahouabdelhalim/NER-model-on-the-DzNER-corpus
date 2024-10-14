@@ -4,6 +4,8 @@
 
 > This repository contains all the resources needed to do the Named Entity Recognition task on Algerian script (models and datasets).
 
+
+
 ## Models used
 
 > In this study we used some per-trained models in the Arabic language such as: Arabert, MARBERT, ARBERT, DziriBERT and mBERT.
