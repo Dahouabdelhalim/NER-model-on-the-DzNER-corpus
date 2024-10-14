@@ -1,1 +1,59 @@
+# DzNER: A Large Algerian Named Entity Recognition Dataset
 
+## Overview
+DzNER is a dataset specifically crafted for Named Entity Recognition (NER) in the Algerian dialect, addressing the scarcity of resources for Arabic dialects in NLP research. This dataset features over 21,000 manually annotated sentences, amounting to more than 220,000 tokens from Algerian Facebook pages and YouTube channels, focusing on three entity types: Person, Location, and Organization.
+
+![NER System Illustration](Figures/ner_system.png)
+*Figure 1: Illustration of the NER system detecting entities in a sample Algerian text from the DzNER dataset.*
+
+## Dataset Composition
+DzNER is enriched with sentences that incorporate both Latin and Arabic scripts, meticulously annotated to facilitate high-quality NER tasks.
+
+### Data Collection
+Data was sourced from popular social media platforms among the Algerian populace, ensuring a varied representation across multiple domains.
+
+### Preprocessing and Annotation
+Our dataset underwent rigorous preprocessing and manual annotation by domain experts, employing the IOB2 scheme for tagging to ensure accuracy and consistency.
+
+### DzNER Statistics
+DzNER's comprehensive statistics underscore its extensive coverage and diversity:
+
+| Description              | Number    |
+|--------------------------|-----------|
+| Total Sentences          | 21,836    |
+| Total Tokens             | 220,000+  |
+| Annotated Entities       | 18,387    |
+| - Person Entities        | 6,159     |
+| - Location Entities      | 5,164     |
+| - Organization Entities  | 2,312     |
+
+*Table 1: Detailed statistics of the DzNER dataset*
+
+## Model Performance
+We assessed the dataset's utility by employing several advanced pre-trained language models, which demonstrated robust capabilities in recognizing named entities effectively across different categories.
+
+### Experimental Setup
+Our experimental framework utilized models optimized for Arabic dialects such as AraBERT and DziriBERT, comparing their efficacy on DzNER against other datasets.
+
+### Results
+The following table highlights the F1 scores achieved by these models across various entity types:
+
+| Model       | Person  | Location | Organization |
+|-------------|---------|----------|--------------|
+| AraBERT     | 79.61%  | 76.01%   | 57.78%       |
+| DziriBERT   | 79.74%  | 74.93%   | 54.31%       |
+
+*Table 2: F1 Scores of Models on the DzNER dataset*
+
+## Conclusion
+The DzNER dataset significantly contributes to the NLP research community by providing a substantial resource for developing NER systems in the Algerian dialect. Future initiatives will focus on expanding the dataset and integrating more linguistic features.
+
+## Citation
+If you use DzNER in your research, please cite it using the following BibTeX entry:
+```bibtex
+@article{dzner2023,
+  title={DzNER: A Large Algerian Named Entity Recognition Dataset},
+  author={Author Names},
+  journal={Natural Language Processing},
+  year={2023}
+}
