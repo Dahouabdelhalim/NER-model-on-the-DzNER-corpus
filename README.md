@@ -11,3 +11,13 @@
 ## Libraries
 
 > For this study, we used the python language and all the libraries, are mentioned in the ipynb script for each per-trained model.
+```bibtex
+@inproceedings{dahou2022named,
+  title={Named entity recognition for Algerian Arabic dialect in social media},
+  author={Dahou, Abdelhalim Hafedh and Cheragui, Mohamed Amine},
+  booktitle={International Conference on Computing and Information Technology},
+  pages={135--145},
+  year={2022},
+  organization={Springer}
+}
+```
