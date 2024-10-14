@@ -12,7 +12,7 @@
 
 > For this study, we used the python language and all the libraries, are mentioned in the ipynb script for each per-trained model.
 
-## Libraries
+## Citation
 
 ```bibtex
 @inproceedings{dahou2022named,
