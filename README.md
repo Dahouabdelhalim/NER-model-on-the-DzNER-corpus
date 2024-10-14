@@ -12,7 +12,7 @@
 
 > For this study, we used the python language and all the libraries, are mentioned in the ipynb script for each per-trained model.
 
-## Citation
+## Citations
 
 ```bibtex
 @inproceedings{dahou2022named,
@@ -22,5 +22,16 @@
   pages={135--145},
   year={2022},
   organization={Springer}
+}
+```
+```bibtex
+@article{dahou2023dzner,
+  title={Dzner: A large algerian named entity recognition dataset},
+  author={Dahou, Abdelhalim Hafedh and Cheragui, Mohamed Amine},
+  journal={Natural Language Processing Journal},
+  volume={3},
+  pages={100005},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
