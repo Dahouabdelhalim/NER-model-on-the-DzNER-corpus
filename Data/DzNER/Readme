@@ -5,6 +5,7 @@ DzNER is a dataset specifically crafted for Named Entity Recognition (NER) in th
 
 ![NER System Illustration](https://github.com/Dahouabdelhalim/NER-model-on-the-DzNER-corpus/blob/main/Data/DzNER/figures/NER%20system.png)
 ![My animated logo](figures/NER system.png)
+<img src="figures/NER system.png" width="128"/>
 *Figure 1: Illustration of the NER system detecting entities in a sample Algerian text from the DzNER dataset.*
 
 ## Dataset Composition
